@@ -1,5 +1,7 @@
 Hashtag Generator
 
+Surprisingly interesting tricky problem
+
 code stored in hashtag_generator.py
 
     ingest_data()
@@ -23,5 +25,3 @@ then the dictionary is converted to a list of dictionaries, which is then sorted
 dictionary and returned to the user
 
 The program then saves the outputted list to the "hashtag_list.json" file
-
-A dictionary (word_count) is created to store the
